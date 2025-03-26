@@ -26,3 +26,4 @@ A simple implementation of the classic Hangman game in Go.
    ```sh
    git clone https://github.com/yourusername/hangman-go.git
    cd hangman-go
+   go run main.go
