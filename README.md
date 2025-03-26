@@ -21,7 +21,6 @@ A simple implementation of the classic Hangman game in Go.
 
 ## How to Run?
 
-Make sure you have Go installed. If not, follow the installation guide on the official Go website: https://golang.org/doc/install.
 
 1. Clone the repository:
    ```sh
